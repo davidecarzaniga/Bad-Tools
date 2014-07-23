@@ -46,17 +46,14 @@ excuses:
     - Non sarebbe male aggiungere quella funzionalità
     - Ogni tanto fa così, prova ad aggiornare
     - Hai pulito la cache?
-    - It must be a browser cache error
-    - That is a problem with our host
-    - That is an issue with a legacy system
-    - That has always worked that way
-    - That was like that before I started here
-    - That is a training issue
-    - There isn't the budget to address that at the moment
-    - I've not been able to recreate the issue
-    - That's been fixed, but the code still has to be released
-    - That's been fixed on another branch
-    - The developer who coded that doesn't work here anymore
+    - Dev'essere un errore della cache
+    - C'è un problema sul server
+    - Ha sempre funzionato così
+    - Era già così prima che iniziassi a lavorare qui
+    - Non ci sono fondi per sistemarlo in questo momento
+    - Non sono riuscire a riprodurre il problema
+    - &Egrave; è già stato risolto, ma dobbiamo caricare il nuovo codice
+    - La persona che l'ha programmato non lavora più qui
     - That is part of the old system
     - I didn't write that part of the system
     - The fix for that is in progress
